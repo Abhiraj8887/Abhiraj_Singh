@@ -13,7 +13,7 @@
 ---
 
 ### 🛠 Tech Stack
-**Languages:** Python, C/C++, JavaScript, SQL  
+**Languages:** Java, Python, C/C++, JavaScript, SQL  
 **Web Dev:** HTML, CSS, ReactJS, NextJS, Tailwind  
 **Tools:** Git, VS Code, Linux
 
